@@ -95,7 +95,7 @@ Sur la page web :
 Dans le fichier `weather_clear.py`, veille à remplacer la clé API :
 
 ```python
-API_KEY = "ea492956c0a146f9991165325250902"  # Remplace par ta clé personnelle
+API_KEY = ""  # Remplace par ta clé personnelle
 ```
 
 Obtiens une clé gratuite sur :  
